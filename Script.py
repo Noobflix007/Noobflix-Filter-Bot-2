@@ -225,21 +225,18 @@ Powered By ⚜️ :「 @Deendayal_Hindi_Movies」
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
-
-<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
-
+</b><a href={poster_url}></a><a href={imdb_url}></a></b>
+<blockquote><b>📥 𝖭𝖤𝖶 𝖥𝖨𝖫𝖤 𝖠𝖣𝖣𝖤𝖣 ✅</b></blockquote>
+<b>
+🫥  <b><code>{filename}</code> ⿻ </b> |<b><a href={poster_url}> ⭐ </a><a href={imdb_url}>ɪᴍᴅʙ ɪɴғᴏ</a></b>
 
 🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
-📺 ᴏᴛᴛ        : <b>{ott}</b>
+🌐 ᴏᴛᴛ        : <b>{ott}</b>
 🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
-🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
-🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
-{episodes}
-</blockquote>
-
-
-🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
+🔊 ᴀᴜᴅɪᴏ    : <b>{language}</b>
+🌟 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
+<b>{episodes}</b>
+<blockquote><b>〽️ Powered by @Noobflix_Filter_Bot</b></blockquote>
 """
 
 
