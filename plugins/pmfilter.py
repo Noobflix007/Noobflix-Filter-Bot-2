@@ -189,7 +189,7 @@ async def next_page(bot, query):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "⚜️ 𝐑𝐞𝐦𝐨𝐯𝐞 𝐚𝐝𝐬 ⚜️", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                           "#𝐌𝐨𝐯𝐢𝐞𝐬𝐑𝐞𝐪𝐮𝐞𝐬𝐭🌈", url=f"http://t.me/Deendayal_dhakad_Contact"),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
 
@@ -210,7 +210,7 @@ async def next_page(bot, query):
                    )
         btn.insert(0, [
             InlineKeyboardButton(
-                "⚜️ 𝐑𝐞𝐦𝐨𝐯𝐞 𝐚𝐝𝐬 ⚜️", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                "#𝐌𝐨𝐯𝐢𝐞𝐬𝐑𝐞𝐪𝐮𝐞𝐬𝐭🌈", url=f"http://t.me/Deendayal_dhakad_Contact"),
             InlineKeyboardButton("Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
         ])
     try:
