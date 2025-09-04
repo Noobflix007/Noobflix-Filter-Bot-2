@@ -812,7 +812,7 @@ async def get_cap(settings, remaining_seconds, files, query, total_results, sear
                 f"<b>🕵 ʏᴏᴜʀ sᴇᴀʀᴄʜ : <code>{search}</code>\n"
                 f"📚 ᴀʟʟ ꜰɪʟᴇꜱ : <code>{total_results}</code>\n"
                 f"🙋‍♂ Hᴇʏ : {query.from_user.mention}\n"
-                f"⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {query.message.chat.title or temp.B_LINK or 'ᴅʀᴇᴀᴍxʙᴏᴛᴢ'}\n</b>"
+                f"⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {query.message.chat.title or temp.B_LINK or '@Deendayal_dhakadd'}\n</b>"
             )
             cap += "\n♻️ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ sᴇᴀʀᴄʜ 👇\n\n</b>"
             for idx, file in enumerate(files, start=offset):
