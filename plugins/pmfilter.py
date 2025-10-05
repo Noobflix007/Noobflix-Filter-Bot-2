@@ -171,7 +171,7 @@ async def next_page(bot, query):
     if settings.get('button'):
         btn = [
             [
-                InlineKeyboardButton(text=f"🔗 {get_size(file.file_size)} ≽ " + clean_filename(
+                InlineKeyboardButton(text=f"📕 {get_size(file.file_size)} | " + clean_filename(
                     file.file_name), callback_data=f'file#{file.file_id}'),
             ]
             for file in files
@@ -407,7 +407,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
     if settings.get('button'):
         btn = [
             [
-                InlineKeyboardButton(text=f"🔗 {get_size(file.file_size)} ≽ " + clean_filename(
+                InlineKeyboardButton(text=f"📕 {get_size(file.file_size)} | " + clean_filename(
                     file.file_name), callback_data=f'file#{file.file_id}'),
             ]
             for file in files
@@ -566,7 +566,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
     if settings.get('button'):
         btn = [
             [
-                InlineKeyboardButton(text=f"🔗 {get_size(file.file_size)} ≽ " + clean_filename(
+                InlineKeyboardButton(text=f"📕 {get_size(file.file_size)} | " + clean_filename(
                     file.file_name), callback_data=f'file#{file.file_id}'),
             ]
             for file in files
@@ -718,7 +718,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        f"🔗 {get_size(f.file_size)} ≽ " +
+                        f"📕 {get_size(f.file_size)} | " +
                         clean_filename(f.file_name),
                         callback_data=f"file#{f.file_id}",
                     )
