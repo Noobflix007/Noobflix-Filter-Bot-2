@@ -101,7 +101,7 @@ async def start(client, message):
                     InlineKeyboardButton('🔰 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔰', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
-                    InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about')
+                    InlineKeyboardButton(' ᴀʙᴏᴜᴛ 🌝', callback_data='about')
                 ],[
                     InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me//Deendayal_Hindi_Movies")
                 ]]
@@ -132,7 +132,7 @@ async def start(client, message):
                     InlineKeyboardButton('🔰 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔰', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
-                    InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about')
+                    InlineKeyboardButton(' ᴀʙᴏᴜᴛ 🌝', callback_data='about')
                 ],[
                     InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me//Deendayal_Hindi_Movies")
                 ]]
