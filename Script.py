@@ -216,11 +216,11 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """@Deendayal_Hindi_Movies.<blockquote><a href="https://t.me//Deendayal_Hindi_Movies"><b>@Nobita_Files_Filter_bot {file_name}</b></a></blockquote>
+    CAPTION = """@Hindi_movies_noobflix.<blockquote><a href="https://t.me/Hindi_movies_noobflix"><b>@Noobflix_Filter_Bot {file_name}</b></a></blockquote>
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>
 
-Powered By ⚜️ :「 @Deendayal_Hindi_Movies」
+Powered By ⚜️ :「 @Hindi_movies_noobflix」
 """
 
     
@@ -394,7 +394,7 @@ Powered By ⚜️ :「 @Deendayal_Hindi_Movies」
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
 This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Deendayal_dhakadd>Deendayal dhakadd</a>\n """
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/>Noobflix</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
