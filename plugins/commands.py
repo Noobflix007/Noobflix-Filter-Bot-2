@@ -103,7 +103,7 @@ async def start(client, message):
                     InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                     InlineKeyboardButton(' ᴀʙᴏᴜᴛ 🌝', callback_data='about')
                 ],[
-                    InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me/Hindi_movies_noobflix")
+                    InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me/Noobflix_Hindi_Movies")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))
@@ -134,7 +134,7 @@ async def start(client, message):
                     InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                     InlineKeyboardButton(' ᴀʙᴏᴜᴛ 🌝', callback_data='about')
                 ],[
-                    InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me/Hindi_movies_noobflix")
+                    InlineKeyboardButton('⫸ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Hᴇʀᴇ ⫷', url=f"https://t.me/Noobflix_Hindi_Movies")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))
